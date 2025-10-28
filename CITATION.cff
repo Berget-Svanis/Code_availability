@@ -3,7 +3,7 @@ message: "Citation"
 authors:
   - family-names: Svanberg
     given-names: Erik Anders Torsten
-title: "Simulations of squeezed light generation with waveguides"
+title: "Code_availability"
 version: 1.0.0
 date-released: October 2025
 url: "https://github.com/Berget-Svanis/Code_availibility"
